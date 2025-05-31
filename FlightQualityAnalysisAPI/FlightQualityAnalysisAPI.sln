@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightQualityAnalysisAPI", "FlightQualityAnalysisAPI\FlightQualityAnalysisAPI.csproj", "{29C05E70-8858-4446-A9CA-3CDE214B061F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightQualityAnalysisAPI.Tests", "FlightQualityAnalysisAPI.Tests\FlightQualityAnalysisAPI.Tests.csproj", "{C4017962-62F8-4F91-8651-1310F9DFFCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C05E70-8858-4446-A9CA-3CDE214B061F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C05E70-8858-4446-A9CA-3CDE214B061F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C05E70-8858-4446-A9CA-3CDE214B061F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C05E70-8858-4446-A9CA-3CDE214B061F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4017962-62F8-4F91-8651-1310F9DFFCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4017962-62F8-4F91-8651-1310F9DFFCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4017962-62F8-4F91-8651-1310F9DFFCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4017962-62F8-4F91-8651-1310F9DFFCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294AFE76-CA63-4D1A-AE0E-71D129371528}
+	EndGlobalSection
+EndGlobal
